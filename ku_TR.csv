@@ -1,5 +1,6 @@
 All,هەموو
 None,"هیچ کام"
+"Are you sure you want to clear your cart?","دڵنیایت کە دەتەوێت سەبەتەکە بەتاڵ بکەیتەوە؟"
 "Please correct the data sent.","تکایە زانیاری ناردراوەکان ڕاست بکەنەوە."
 "Sales Rule","یاساکانی فروشتن"
 "Index sales rule","نیشاندەری یاساکانی فروشتن"
@@ -11,3 +12,7 @@ Edit,دەستکاریکردن
 Enabled,"چالاک کراوە"
 Title,سەردێڕ
 Environment,ژینگە
+Cancel,هەڵوەشاندنەوە
+Name,ناو
+Type,جۆر
+Price,نرخ
